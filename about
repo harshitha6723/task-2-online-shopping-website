@@ -1,0 +1,26 @@
+<html>
+<head>
+<style>
+body{
+background-color:#ffa8B6;
+}
+h1{
+text-align: center;
+color: white;
+}
+p{
+text-align: left;
+color:white;
+font-size: 30;
+}
+</style>
+</head>
+<body>
+<h1>ABOUT</h1>
+<p>Hi there! I am Harshitha, the creator of Honey Boutique. My story began with a childhood dream of creating a space filled with delightful and unique treasures. A desire to curate meaningful and beautiful items for everyone to enjoy.<br/>
+
+I am passionate about offering a collection that goes beyond just products. Each item in our boutique is thoughtfully selected and crafted, showcasing traditional methods and a touch of uniqueness. You can explore and find customized gifts for your loved ones or yourself.<br/>
+
+We believe that the items you choose can be powerful symbols. Our collection features pieces designed based on current fashion trends with a hint of vintage charm. Women of all age groups can find something special in our boutique, embracing the joy of unique and meaningful products.</p>
+</body>
+</html>
