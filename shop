@@ -1,0 +1,32 @@
+<html>
+<head>
+<style>
+body{
+background-color:#ffa8B6;
+}
+h1{
+text-align: center;
+color: white;
+}
+p{
+text-align: left;
+color: white;
+font-size:30;
+}
+</style>
+</head>
+<body>
+<h1>SHOP</h1>
+<p>
+Certainly! Here is some engaging header information for the online website of Honey Boutique:
+
+Welcome to Honey Boutique
+
+Discover Your Style
+
+Explore our exclusive collection of high-quality fashion pieces, curated with love and designed to inspire confidence and individuality. Find the perfect outfit that tells your unique story, from timeless classics to the latest trends.
+
+<p>Shop Now | Contact Us</p>
+</p>
+</body>
+</html>
