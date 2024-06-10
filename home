@@ -1,0 +1,30 @@
+<html>
+<head>
+<style>
+body{
+background-color:#ffa8B6;
+}
+h1{
+text-align: center;
+color: white;
+}
+p{
+text-align: left;
+color: white;
+font-size:30;
+}
+</style>
+</head>
+<body>
+<h1>HOME</h1>
+<p>Hello! I'm Harshitha, and I'm the founder of Honey Boutique.
+
+My passion for fashion began at a young age, and Honey Boutique is the realization of my dream to bring unique, high-quality clothing and accessories to fashion enthusiasts everywhere. Each item in our collection is carefully selected for its style, craftsmanship, and the story it tells.
+
+At Honey Boutique, we believe that fashion is not just about what you wear, but how it makes you feel. Each piece in our collection is designed to inspire confidence and express individuality. Our range includes everything from timeless classics to the latest trends, ensuring that there's something for everyone.
+
+Thank you for visiting Honey Boutique! I hope you find pieces that resonate with you and enhance your style. Feel free to browse our collection, and don't hesitate to contact us if you have any questions.
+
+Thank you!</p>
+</body>
+</html>
